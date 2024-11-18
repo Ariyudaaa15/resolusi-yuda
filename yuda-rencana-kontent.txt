@@ -1,5 +1,7 @@
 RENCANA KONTENT Yuda
 - Javascript Dasar
+  * Fraework Javascript
+  * ES 6 Javascript
 - PHP framewoork
 - Vlog
 - Desain
