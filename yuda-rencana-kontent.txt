@@ -2,7 +2,11 @@ RENCANA KONTENT Yuda
 - Javascript Dasar
   * Fraework Javascript
   * ES 6 Javascript
+  * React JS
 - Fundamental Struktur Data
 - PHP framewoork
+ * Laravel
 - Vlog
 - Desain
+- C++
+- C#
